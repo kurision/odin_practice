@@ -1,0 +1,6 @@
+day 1
+    - creating project of laravel with composer
+    => composer create-project laravel/laravel project_name
+    -now cd into project_name
+    -now to start a php server for laravel
+    => php artisan serve
